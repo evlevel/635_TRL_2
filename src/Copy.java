@@ -1,6 +1,8 @@
 
 public class Copy
 {
+	// new version of Copy...
+	
 	private String copyID;
 	private Patron outTo;
 
